@@ -32,8 +32,6 @@ Researchers:
 - https://www.linkedin.com/in/seimor-walchhutter-5a3844186/
 - http://lattes.cnpq.br/7714262057936175
 
-Project inspired by https://rfcx.org
-
 Mata Atlântica - 200,205.3 km<sup>2</sup>
 
 <img src="img/mataatlantica.jpg" width="600px">
@@ -41,3 +39,5 @@ Mata Atlântica - 200,205.3 km<sup>2</sup>
 Amazonia - 7,000,000 km<sup>2</sup>
 
 <img src="img/amazonia.jpg" width="600px">
+
+Project inspired by https://rfcx.org
