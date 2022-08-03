@@ -20,11 +20,11 @@ Process:
 
 Researchers:
 
-### Daniel Carvalho
+### Daniel Carvalho - Insper and Wolfram Research
 - https://www.linkedin.com/in/danielscarvalho/
 -  http://lattes.cnpq.br/0474323108499042
 
-### Seimor Walchhutter
+### Seimor Walchhutter - Universidade Federal de Rondônia
 - https://www.linkedin.com/in/seimor-walchhutter-5a3844186/
 - http://lattes.cnpq.br/7714262057936175
 
