@@ -34,5 +34,8 @@ Researchers:
 
 Project inspired by https://rfcx.org
 
+Mata Atlântica - 200,205.3 km<sup>2</sup>
 <img src="img/mataatlantica.jpg" width="600px">
+
+Amazonia - 7,000,000 km<sup>2</sup>
 <img src="img/amazonia.jpg" width="600px">
