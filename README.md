@@ -16,7 +16,7 @@ Process:
 - Report
   - Mogile app
   - Papers
-  - Graphics
+  - Graphics/Dashboard
   - Online real time data access 
 
 Researchers:
