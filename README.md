@@ -33,3 +33,6 @@ Researchers:
 - http://lattes.cnpq.br/7714262057936175
 
 Project inspired by https://rfcx.org
+
+<img src="img/mataatlantica.jpg" width="600px">
+<img src="img/amazonia.jpg" width="600px">
