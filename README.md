@@ -14,7 +14,7 @@ Process:
   - Ping device on top of trees
   - Send data by 4G/5G
 - Store sound data
-- Analise sound data
+- Analise sound data at the cloud
 - Report
   - Mogile app
   - Papers
