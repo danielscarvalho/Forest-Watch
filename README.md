@@ -10,6 +10,7 @@ Process:
   - Reporposed used smartphones
   - Lightweight case
   - Ping device on top of trees
+  - Send data by 4G/5G
 - Store sound data
 - Analise sound data
 - Report
