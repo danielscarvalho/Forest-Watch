@@ -13,6 +13,7 @@ Process:
   - Lightweight case
   - Ping device on top of trees
   - Send data by 4G/5G
+  - Mobile app to get sensors info
 - Store sound data
 - Analise sound data at the cloud
 - Report
