@@ -24,13 +24,16 @@ Concept:
 
 Researchers:
 
-### Daniel Carvalho - Insper and Wolfram Research
+### MEng. Daniel Carvalho - Insper and Wolfram Research
 - https://www.linkedin.com/in/danielscarvalho/
 -  http://lattes.cnpq.br/0474323108499042
 
-### Seimor Walchhutter - Universidade Federal de Rondônia
+### Dr. Seimor Walchhutter - Universidade Federal de Rondônia
 - https://www.linkedin.com/in/seimor-walchhutter-5a3844186/
 - http://lattes.cnpq.br/7714262057936175
+
+### Dr. Daniel Hoffmman - Universidade Estadual do Rio Grande do Sul
+- http://lattes.cnpq.br/4388320562511213
 
 Mata Atlântica - 200,205.3 km<sup>2</sup>
 
