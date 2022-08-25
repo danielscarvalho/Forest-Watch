@@ -43,4 +43,6 @@ Amazonia - 7,000,000 km<sup>2</sup>
 
 <img src="img/amazonia.jpg" width="600px">
 
-Project inspired by https://rfcx.org
+Project inspired by:
+- https://rfcx.org
+- https://www.eff.org/pages/gunshot-detection
