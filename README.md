@@ -46,3 +46,4 @@ Amazonia - 7,000,000 km<sup>2</sup>
 Project inspired by:
 - https://rfcx.org
 - https://www.eff.org/pages/gunshot-detection
+- https://www.shotspotter.com/
