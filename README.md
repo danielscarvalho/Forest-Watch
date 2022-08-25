@@ -1,4 +1,4 @@
-# Forest-Watch
+# Forest-Watch - Sons da Amazônia
 ![rainforest](img/rainforest.jpg)
 
 ## Forest Watch - Rainforest monitoring data science research project
