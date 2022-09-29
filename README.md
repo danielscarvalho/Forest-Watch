@@ -47,3 +47,8 @@ Project inspired by:
 - https://rfcx.org
 - https://www.eff.org/pages/gunshot-detection
 - https://www.shotspotter.com/
+
+### News:
+
+Archaeologists find vast network of Amazon villages laid out like the cosmo<br>
+https://www.livescience.com/clock-face-shaped-villages-amazon-rainforest.html
