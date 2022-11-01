@@ -17,7 +17,7 @@ Concept:
   - Store data at a local SSD/Memory (offline data sample)
   - Mobile app to get sensors info
 - Store sound, image, and sensor data
-- Annalise sound, image and sensor data in the cloud
+- Annalise sound, image, and sensor data in the cloud
 - Report
   - Mobile app
   - Papers
