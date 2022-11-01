@@ -14,6 +14,7 @@ Concept:
   - Ping device on top of trees
   - Send data by 4G/5G (When available)
   - Send data by satellite connection (When available)
+  - Stream data (When possible)
   - Store data at a local SSD/Memory (offline data sample)
   - Mobile app to get sensors info
   - Low-cost hardware
