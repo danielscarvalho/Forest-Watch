@@ -1,7 +1,7 @@
 # Forest-Watch - Sons da Amazônia
 ![rainforest](img/rainforest.jpg)
 
-## Forest Watch - Rainforest monitoring data science research project
+## Forest Watch - Rainforest monitoring ecoacoustics data science research project
 
 Forest Watch research project aims to collect images and sound data from Brazilian forests with remote sensing technology, [Amazon](https://en.wikipedia.org/wiki/Amazon_rainforest) and [Mata Atlântica](https://en.wikipedia.org/wiki/Atlantic_Forest), to analyze and monitor biodiversity, risks, and threads such as fire, shots, and illegal activities such as logging, and poaching.
 
