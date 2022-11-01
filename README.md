@@ -12,7 +12,8 @@ Concept:
   - Reporposed used smartphones
   - Lightweight case
   - Ping device on top of trees
-  - Send data by 4G/5G
+  - Send data by 4G/5G (When available)
+  - Send data by satellite connection (When available)
   - Store data at a local SSD/Memory (offline data sample)
   - Mobile app to get sensors info
 - Store sound data
