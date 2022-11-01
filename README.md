@@ -58,7 +58,7 @@ by Bernie Krause, Little Brown, 2012.
 by Jalil Villalobos Alva, Apress, 2021.
 - Mathematica for Bioinformatics: A Wolfram Language Approach, George Mias, Springer, 2018.
 - Mathematical Models in the Biosciences I, Michael Frame, Yale University Press, 2021.
-- Linear Systems and Signals by B.P. Lathi and Roger Green, Oxford, 2017.
+- Modern Digital and Analog Communication Systems by Lathi, B. P., Oxford, 1998.
 
 ### Related News:
 
