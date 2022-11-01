@@ -69,6 +69,7 @@ by Bernie Krause, Little Brown, 2012.
 - Mathematica Data Analysis by Sergiy Suchok, Packt, 2015.
 - Mathematica for Bioinformatics: A Wolfram Language Approach, George Mias, Springer, 2018.
 - Mathematical Models in the Biosciences I, Michael Frame, Yale University Press, 2021.
+- Artificial Intelligence: Machine Learning and Data Science in the 21st Century by Victor Servings, Self Publisher, 2019.
 - Modern Digital and Analog Communication Systems by Lathi, B. P., Oxford, 1998.
 
 ### Related News:
