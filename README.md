@@ -26,7 +26,7 @@ Concept:
 Researchers:
 
 ### MEng. Daniel Carvalho - Insper and Wolfram Research
-- https://www.linkedin.com/in/danielscarvalho/
+- https://www.linkedin.com/in/danielscarvalho/https://meliponariodajureia.com.br/theme2/img/jureia.png
 -  http://lattes.cnpq.br/0474323108499042
 
 ### Dr. Seimor Walchhutter - Universidade Federal de Rondônia
@@ -43,6 +43,10 @@ Mata Atlântica - 200,205.3 km<sup>2</sup>
 Amazonia - 7,000,000 km<sup>2</sup>
 
 <img src="img/amazonia.jpg" width="600px">
+
+Reserva da Juréia - 843,8 km<sup>2</sup> 
+
+<img src="https://meliponariodajureia.com.br/theme2/img/jureia.png" width="600px">
 
 Project inspired by:
 - https://rfcx.org
