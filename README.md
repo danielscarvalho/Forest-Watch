@@ -27,7 +27,7 @@ Concept:
 Researchers (Multidisciplinary team):
 
 ### MEng. Daniel Carvalho - Insper and Wolfram Research
-- https://www.linkedin.com/in/danielscarvalho/https://meliponariodajureia.com.br/theme2/img/jureia.png
+- https://www.linkedin.com/in/danielscarvalho/
 -  http://lattes.cnpq.br/0474323108499042
 
 ### Dr. Seimor Walchhutter - Universidade Federal de Rondônia
