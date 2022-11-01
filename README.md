@@ -8,11 +8,12 @@ Forest Watch research project aims to collect images and sound data from Brazili
 Concept:
 
 - Prototype data collection device
-  - Off grid (solar painel power source)
+  - Off grid (solar painel power source and/or batteries)
   - Reporposed used smartphones
   - Lightweight case
   - Ping device on top of trees
   - Send data by 4G/5G
+  - Store data at a local SSD/Memory (offline data sample)
   - Mobile app to get sensors info
 - Store sound data
 - Analise sound data at the cloud
