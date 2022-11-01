@@ -56,6 +56,7 @@ by Bernie Krause, Little Brown, 2012.
 - Introduction to Machine Learning by Etienne Bernard, Wolfram Media, 2022.
 - Beginning Mathematica and Wolfram for Data Science: Applications in Data Analysis, Machine Learning, and Neural Networks 1st ed. Edition
 by Jalil Villalobos Alva, Apress, 2021.
+- Mathematica Data Analysis by Sergiy Suchok, Packt, 2015.
 - Mathematica for Bioinformatics: A Wolfram Language Approach, George Mias, Springer, 2018.
 - Mathematical Models in the Biosciences I, Michael Frame, Yale University Press, 2021.
 - Modern Digital and Analog Communication Systems by Lathi, B. P., Oxford, 1998.
