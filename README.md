@@ -37,7 +37,8 @@ Researchers (Multidisciplinary team):
 ### Dr. Daniel Sander Hoffmann - Universidade Estadual do Rio Grande do Sul
 - http://lattes.cnpq.br/4388320562511213
 
-### Dra. Lilian Sander Hoffmann - Programa Arquipélago/Postgraduate Program in Genetics and Molecular Biology (PPGBM) - Universidade Federal do Rio Grande do Sul
+### Dra. Lilian Sander Hoffmann - Universidade Federal do Rio Grande do Sul
+Programa Arquipélago/Postgraduate Program in Genetics and Molecular Biology (PPGBM)
 - http://lattes.cnpq.br/9894474384094223
 
 Mata Atlântica - 200,205.3 km<sup>2</sup>
