@@ -64,13 +64,14 @@ Project inspired by:
 - The Great Animal Orchestra: Finding the Origins of Music in the World's Wild Places
 by Bernie Krause, Little Brown, 2012.
 - Methods in Ecoacoustics: The Acoustic Complexity Indices by Almo Farina, Peng Li, Springer, 2021.
+- Exploring Animal Behavior Through Sound: Volume 1 by Christine Erbe, Jeanette A. Thomas, Springer, 2021.
+- Ecoacoustics: The Ecological Role of Sounds by Almo Farina, Stuart H. Gage, Wiley, 2017.
 - Introduction to Machine Learning by Etienne Bernard, Wolfram Media, 2022.
 - Beginning Mathematica and Wolfram for Data Science: Applications in Data Analysis, Machine Learning, and Neural Networks by Jalil Villalobos Alva, Apress, 2021.
 - Mathematica Data Analysis by Sergiy Suchok, Packt, 2015.
 - Mathematica for Bioinformatics: A Wolfram Language Approach by George Mias, Springer, 2018.
 - Mathematical Models in the Biosciences I by Michael Frame, Yale University Press, 2021.
 - Artificial Intelligence: Machine Learning and Data Science in the 21st Century by Victor Servings, Self Publisher, 2019.
-- Ecoacoustics: The Ecological Role of Sounds by Almo Farina, Stuart H. Gage, Wiley, 2017.
 - Modern Digital and Analog Communication Systems by Lathi, B. P., Oxford, 1998.
 
 ### Related News:
