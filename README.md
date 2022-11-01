@@ -34,8 +34,11 @@ Researchers (Multidisciplinary team):
 - https://www.linkedin.com/in/seimor-walchhutter-5a3844186/
 - http://lattes.cnpq.br/7714262057936175
 
-### Dr. Daniel Hoffmman - Universidade Estadual do Rio Grande do Sul
+### Dr. Daniel Sander Hoffmann - Universidade Estadual do Rio Grande do Sul
 - http://lattes.cnpq.br/4388320562511213
+
+### Dra. Lilian Sander Hoffmann - Programa Arquipélago / Postgraduate Program in Genetics and Molecular Biology (PPGBM) - UFRGS - Universidade Federal do Rio Grande do Sul
+- http://lattes.cnpq.br/9894474384094223
 
 Mata Atlântica - 200,205.3 km<sup>2</sup>
 
