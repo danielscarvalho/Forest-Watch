@@ -3,23 +3,23 @@
 
 ## Forest Watch - Rainforest monitoring data science research project
 
-Forest Watch research project aims to collect images and sound data from Brazilian forests with remote sensing tecnology, [Amazon](https://en.wikipedia.org/wiki/Amazon_rainforest) and [Mata Atlântica](https://en.wikipedia.org/wiki/Atlantic_Forest), to analyze and monitor biodiversity, risks, and threads such as fire, shots, and illegal activities such as logging, and poaching.
+Forest Watch research project aims to collect images and sound data from Brazilian forests with remote sensing technology, [Amazon](https://en.wikipedia.org/wiki/Amazon_rainforest) and [Mata Atlântica](https://en.wikipedia.org/wiki/Atlantic_Forest), to analyze and monitor biodiversity, risks, and threads such as fire, shots, and illegal activities such as logging, and poaching.
 
 Concept:
 
 - Prototype data collection device
-  - Off grid (solar painel power source and/or batteries)
-  - Reporposed used smartphones
+  - Off-grid (solar panel power source and/or batteries)
+  - Repurposed used smartphones
   - Lightweight case
   - Ping device on top of trees
   - Send data by 4G/5G (When available)
   - Send data by satellite connection (When available)
   - Store data at a local SSD/Memory (offline data sample)
   - Mobile app to get sensors info
-- Store sound data
-- Analise sound data at the cloud
+- Store sound, image, and sensor data
+- Annalise sound, image and sensor data in the cloud
 - Report
-  - Mogile app
+  - Mobile app
   - Papers
   - Graphics/Dashboard
   - Online real time data access 
