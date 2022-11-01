@@ -22,7 +22,7 @@ Concept:
   - Mobile app
   - Papers
   - Graphics/Dashboard
-  - Online real time data access 
+  - Online real- time data access 
 
 Researchers:
 
