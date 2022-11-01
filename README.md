@@ -16,6 +16,7 @@ Concept:
   - Send data by satellite connection (When available)
   - Store data at a local SSD/Memory (offline data sample)
   - Mobile app to get sensors info
+  - Low-cost hardware
 - Store sound, image, and sensor data
 - Annalise sound, image, and sensor data in the cloud
 - Report
