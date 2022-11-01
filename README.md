@@ -24,7 +24,7 @@ Concept:
   - Graphics/Dashboard
   - Online real-time data access 
 
-Researchers:
+Researchers (Multidisciplinary team):
 
 ### MEng. Daniel Carvalho - Insper and Wolfram Research
 - https://www.linkedin.com/in/danielscarvalho/https://meliponariodajureia.com.br/theme2/img/jureia.png
