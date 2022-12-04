@@ -14,6 +14,7 @@ Concept:
 - Prototype data collection device
   - Off-grid (solar panel power source and/or batteries)
   - Repurposed used smartphones
+  - RaspberryPi and related computers
   - Lightweight case
   - Ping device on top of trees
   - Send data by 4G/5G (When available)
@@ -22,6 +23,8 @@ Concept:
   - Store data at a local SSD/Memory (offline data sample)
   - Mobile app to get sensors info
   - Low-cost hardware
+- Use market-ready devices (form factor)
+  - https://www.wildlifeacoustics.com/
 - Store sound, image, and sensor data
 - Annalise sound, image, and sensor data in the cloud
 - Report
