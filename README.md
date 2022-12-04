@@ -28,7 +28,7 @@ Concept:
 - Annalise sound, image, and sensor data in the cloud
 - Report
   - Mobile app
-  - Papers
+  - Papers/Articles
   - Graphics/Dashboard
   - Online real-time data access 
 
