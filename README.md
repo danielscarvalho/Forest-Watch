@@ -47,6 +47,12 @@ Researchers (Multidisciplinary team):
 ### Dra. Lilian Sander Hoffmann - Programa Arquipélago/Postgraduate Program in Genetics and Molecular Biology (PPGBM) - Universidade Federal do Rio Grande do Sul
 - http://lattes.cnpq.br/9894474384094223
 
+
+## Our publications
+
+### 7th World Conference on Qualitative Research - WCQR2023 (282): Sounds of Amazon
+- https://www.youtube.com/watch?v=ubrlBcJhjqk
+
 Mata Atlântica - 200,205.3 km<sup>2</sup>
 
 <img src="img/mataatlantica.jpg" width="600px">
