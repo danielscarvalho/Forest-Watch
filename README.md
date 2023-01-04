@@ -66,6 +66,7 @@ Reserva da Juréia - 843,8 km<sup>2</sup>
 <img src="https://meliponariodajureia.com.br/theme2/img/jureia.png" width="600px">
 
 Project inspired by:
+- https://www.wildlife-sound.org/
 - https://rfcx.org
 - https://www.eff.org/pages/gunshot-detection
 - https://www.shotspotter.com/
