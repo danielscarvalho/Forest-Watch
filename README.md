@@ -13,7 +13,7 @@ Concept:
 - Prototype data collection device
   - Off-grid (solar panel power source and/or batteries)
   - Repurposed used smartphones
-  - RaspberryPi and related computers
+  - RaspberryPi and related computersEcoacústica e Inteligência Artificial Aplicados à Pesquisa em Ecossistemas Sul-Americanos (Observatório ECO)
   - Use market-ready devices (form factor) - https://www.wildlifeacoustics.com/
   - Lightweight case
   - Ping device on top of trees
@@ -50,12 +50,12 @@ Researchers (Multidisciplinary team):
 
 ## Our publications
 
-### XVII Jornada Científica CEDSA 14/10/2022: SONS DA AMAZÔNIA
+### - XVII Jornada Científica CEDSA 14/10/2022: SONS DA AMAZÔNIA
 
-### Conferência Brasileira de Tecnologia Wolfram 2022 - Mackenzie - 5/11/2022: Ecoacústica e Inteligência Artificial Aplicados à Pesquisa em Ecossistemas Sul-Americanos (Observatório ECO)
+### - Conferência Brasileira de Tecnologia Wolfram 2022 - Mackenzie - 5/11/2022: Ecoacústica e Inteligência Artificial Aplicados à Pesquisa em Ecossistemas Sul-Americanos (Observatório ECO)
 - https://www.wolfram.com/events/technology-conference-br/2022/
 
-### 7th World Conference on Qualitative Research - WCQR2023 (282): Sounds of Amazon
+### - 7th World Conference on Qualitative Research - WCQR2023 (282): Sounds of Amazon
 - https://www.youtube.com/watch?v=ubrlBcJhjqk
 
 
