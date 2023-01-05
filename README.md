@@ -52,7 +52,7 @@ Researchers (Multidisciplinary team):
 
 ### - XVII Jornada Científica CEDSA (Centro de Estudos Interdisciplinar em Desenvolvimento Sustentável da Amazônia) - UNIR - 14/10/2022: SONS DA AMAZÔNIA
 
-### - Conferência Brasileira de Tecnologia Wolfram 2022 - Mackenzie - 5/11/2022: Ecoacústica e Inteligência Artificial Aplicados à Pesquisa em Ecossistemas Sul-Americanos
+### - Conferência Brasileira de Tecnologia Wolfram 2022 - Mackenzie - 5/11/2022: Ecoacoustics and Artificial Intelligence Applied to Research in South American Ecosystems
 - https://www.wolfram.com/events/technology-conference-br/2022/
 
 ### - 7th World Conference on Qualitative Research - WCQR2023 (282): Sounds of Amazon
