@@ -50,7 +50,7 @@ Researchers (Multidisciplinary team):
 
 ## Our publications
 
-### - XVII Jornada Científica CEDSA - UNIR - 14/10/2022: SONS DA AMAZÔNIA
+### - XVII Jornada Científica CEDSA (Centro de Estudos Interdisciplinar em Desenvolvimento Sustentável da Amazônia) - UNIR - 14/10/2022: SONS DA AMAZÔNIA
 
 ### - Conferência Brasileira de Tecnologia Wolfram 2022 - Mackenzie - 5/11/2022: Ecoacústica e Inteligência Artificial Aplicados à Pesquisa em Ecossistemas Sul-Americanos (Observatório ECO)
 - https://www.wolfram.com/events/technology-conference-br/2022/
