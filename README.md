@@ -98,3 +98,6 @@ https://www.livescience.com/clock-face-shaped-villages-amazon-rainforest.html
 
 Online tree of life now connects 2.2 million living species<br>
 https://www.freethink.com/environment/onezoom-tree-of-life
+
+Mapping Brazilian soil mineralogy using proximal and remote sensing data
+https://www.sciencedirect.com/science/article/pii/S0016706123000903?via%3Dihub
