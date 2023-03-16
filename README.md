@@ -93,6 +93,9 @@ by Bernie Krause, Little Brown, 2012.
 
 ### Related News:
 
+The carbon sink of secondary and degraded humid tropical forests
+https://www.nature.com/articles/s41586-022-05679-w
+
 Recuperação de floresta tropical compensa 26% de emissões de carbono provocadas por desmate e degradação
 https://agencia.fapesp.br/recuperacao-de-floresta-tropical-compensa-26-de-emissoes-de-carbono-provocadas-por-desmate-e-degradacao/40909/
 
