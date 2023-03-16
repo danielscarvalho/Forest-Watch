@@ -93,6 +93,9 @@ by Bernie Krause, Little Brown, 2012.
 
 ### Related News:
 
+Recuperação de floresta tropical compensa 26% de emissões de carbono provocadas por desmate e degradação
+https://agencia.fapesp.br/recuperacao-de-floresta-tropical-compensa-26-de-emissoes-de-carbono-provocadas-por-desmate-e-degradacao/40909/
+
 Archaeologists find vast network of Amazon villages laid out like the cosmo<br>
 https://www.livescience.com/clock-face-shaped-villages-amazon-rainforest.html
 
@@ -101,3 +104,5 @@ https://www.freethink.com/environment/onezoom-tree-of-life
 
 Mapping Brazilian soil mineralogy using proximal and remote sensing data
 https://www.sciencedirect.com/science/article/pii/S0016706123000903?via%3Dihub
+
+
