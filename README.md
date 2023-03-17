@@ -93,6 +93,9 @@ by Bernie Krause, Little Brown, 2012.
 
 ### Related News:
 
+Laser scans reveal ancient cities hidden in the Amazon river basin
+https://bigthink.com/the-past/amazon-river-casarabe-lidar/
+
 The carbon sink of secondary and degraded humid tropical forests 
 https://www.nature.com/articles/s41586-022-05679-w
 
