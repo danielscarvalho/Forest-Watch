@@ -78,6 +78,7 @@ Project inspired by:
 
 ### Bibliograpy:
 
+- The Voices of Nature: How and Why Animals Communicate, Nicolas Mathevon, 2023.
 - The Great Animal Orchestra: Finding the Origins of Music in the World's Wild Places
 by Bernie Krause, Little Brown, 2012.
 - Methods in Ecoacoustics: The Acoustic Complexity Indices by Almo Farina, Peng Li, Springer, 2021.
